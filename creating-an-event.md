@@ -70,4 +70,4 @@ Make sure you add topics such as `kuberenetes, cloud native, open source`.
 
 ## Divulge the event
 
-Login on Buffer and create post.
+[Via Buffer](posting-on-buffer.md).
