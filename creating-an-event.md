@@ -21,7 +21,7 @@ We need three pieces of art for the event:
 1. An event banner for bevy
 1. An event logo for bevy and meetup
 
-Login on [Canva](canva.com) and look for "KubeSkill" folder.
+Login on [Canva](https://canva.com) and look for "KubeSkill" folder.
 
 For #1, it is a `2560 x 650 px` banner, look for files named `bevy-banner-k8s-austin-meetup-<date>`, pick one and save as and edit the speakers' name, picture and companies.
 *Leave the middle of the banner blank*.
