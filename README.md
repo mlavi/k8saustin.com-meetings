@@ -1,5 +1,5 @@
 # meetup-planning
-planning monthly meetups for Kubernetes Austin CNCG
+planning monthly meetups for Kubernetes Austin CNCF
 
 ## Links and Procedures
 
