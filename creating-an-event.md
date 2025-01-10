@@ -65,3 +65,4 @@ Make sure to add descriptive topics, such as: `kuberenetes, cloud native, open s
 [Via Buffer](posting-on-buffer.md).
 
 Schedule (ideally three) two weeks before, one week before, a few days before the event!
+Update descriptions (and graphics if you have the energy) with last minute changes or the confirmed room.
