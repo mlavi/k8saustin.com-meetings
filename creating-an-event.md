@@ -63,3 +63,5 @@ Make sure to add descriptive topics, such as: `kuberenetes, cloud native, open s
 ## Promote the Event!
 
 [Via Buffer](posting-on-buffer.md).
+
+Schedule (ideally three) two weeks before, one week before, a few days before the event!
