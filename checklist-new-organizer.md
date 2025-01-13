@@ -2,6 +2,7 @@
 
 ## Intro
 Thanks for volunteering to k8sAustin.com .
+To formally request to be a co-organizer, go to https://github.com/cncf/communitygroups/issues/new/choose
 
 ## Access
 
