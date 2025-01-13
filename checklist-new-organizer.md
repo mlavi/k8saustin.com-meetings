@@ -2,7 +2,9 @@
 
 ## Intro
 Thanks for volunteering to k8sAustin.com .
-To formally request to be a co-organizer, go to https://github.com/cncf/communitygroups/issues/new/choose
+To formally request to be a co-organizer, open an issue at https://github.com/cncf/communitygroups/issues/new/choose with the option "Chapter Organizer Request".
+For the `Name of chapter inquiring about`, put `Kubernetes Austin`.
+Send a headsup email to `organizers@k8sAustin.com` with the issue number.
 
 ## Access
 
