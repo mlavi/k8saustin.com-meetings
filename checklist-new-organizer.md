@@ -20,7 +20,8 @@ Add person to:
 * As organizer on legacy [Kubernetes meetup page](https://www.meetup.com/kubernetes-austin/): because we still have 1,300+ members, we still divulge from this platform, always pointing back to Bevy
 * Owner of [linkedIn page](https://www.linkedin.com/company/97438051/admin/dashboard/): edits, see stats, etc
 * Access to [buffer](buffer.com) with our shared login: create posts accross all social media
-* Access to (Canva)[canva.com], adding as part of the KubeSkills group: creating art for the events and posts
+* Access to [Canva](canva.com), adding as part of the KubeSkills group: creating art for the events and posts
+* Editor of our google drive https://drive.google.com/drive/folders/1VNMGy8GB9ehdlfabIrdEEQLDHg3KHGdq?usp=drive_link
 * Introductory email to Capital Factory team if necessary  
 
 
