@@ -12,3 +12,7 @@ planning monthly meetups for Kubernetes Austin CNCF
 [During the Event](during-the-event.md)
 
 [After (next day) the Event](after-the-event.md)
+
+## Other Resources
+
+[Google Drive](https://drive.google.com/drive/u/0/folders/1VNMGy8GB9ehdlfabIrdEEQLDHg3KHGdq)
