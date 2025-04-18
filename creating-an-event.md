@@ -18,7 +18,10 @@ Create three pieces of art for the event:
 1. An event banner for Bevy
 1. An event logo for Bevy and Meetup (reuse for LinkedIn)
 
-Login on [Canva](https://canva.com) and look for "KubeSkill" folder.
+Login on [Canva](https://canva.com) and look for [K8sAustin](https://www.canva.com/folder/FAF7fBq_SQc) folder.
+
+Create a new folder under this folder with the format "YYYY-MM-DD" for the date of the meetup. For the next steps, please create the arts and save them under this folder.
+We usually create a single art for both speakers, you must collect their picture from the sessionize website.
 
 For #1, it is a `2560 x 650 px` banner, look for files named `bevy-banner-k8s-austin-meetup-<date>`, pick one and save as and edit the speakers' name, picture and companies.
 *Leave the middle of the banner blank*.
