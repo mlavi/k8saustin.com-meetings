@@ -12,11 +12,14 @@ This is the rough steps in how to create a meetup event from scratch.
 
 ![inform the speakers](pictures/sessionize/inform-speakers.png)
 
-## Canva: Create Art
+## Canva: Create Art and Upload them on Google Drive
+
+### Canva
 
 Create three pieces of art for the event:
 1. An event banner for Bevy
-1. An event logo for Bevy and Meetup (reuse for LinkedIn)
+1. An event logo for Bevy (reuse for LinkedIn)
+1. An event banner for Meetup
 
 Login on [Canva](https://canva.com) and look for [K8sAustin](https://www.canva.com/folder/FAF7fBq_SQc) folder.
 
@@ -37,6 +40,10 @@ Example:
 
 For #3, it is required for the meetup page a `1200 x 675 px`. Look for files named  `meetup-banner-k8s-austin-meetup-<date>`.
 
+### Google Drive
+
+Create a new folder under our [Google Drive](https://drive.google.com/drive/u/0/folders/1VNMGy8GB9ehdlfabIrdEEQLDHg3KHGdq) and upload all arts, under the current year.
+The same folder will contain the Google Slides presentation for the meetup.
 
 ## Create a Bevy Event
 
