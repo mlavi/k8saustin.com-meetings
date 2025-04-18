@@ -30,10 +30,13 @@ Example
 ![bevy-banner-example](pictures/canva/bevy-banner-example.png)
 
 For #2, it is a `1080 x 1080 px` tile for the logo. Look for files named `bevy-k8s-austin-event-logo-<date>`.
-Same drill, pick one, save as and edit it with the title and date. Some examples are titled: social-media-j8s-austin-event-MMM-DD-YYYY
+Same drill, pick one, save as and edit it with the title and date.
 Example:
 
 ![bevy-logo-example](pictures/canva/bevy-logo-example.png)
+
+For #3, it is required for the meetup page a `1200 x 675 px`. Look for files named  `meetup-banner-k8s-austin-meetup-<date>`.
+
 
 ## Create a Bevy Event
 
