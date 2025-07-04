@@ -62,7 +62,7 @@ Use the option to RSVP, we usually limit capacity to 50 people.
 
 ## Create a K8sAustin.com/ShortURL
 
-Once you have a URL for the event, go to `https://github.com/k8sAustin/k8saustincom/blob/main/_redirects` and edit file or submit a pull request. Test it: https://K8sAustin.com/ShortURL-example
+Once you have a URL for the event, go to [https://github.com/k8sAustin/k8saustincom/blob/main/_redirects](https://github.com/k8sAustin/k8saustincom/blob/main/_redirects) and edit file or submit a pull request. Test it: https://K8sAustin.com/ShortURL-example
 
 ## Create a Meetup Event
 
