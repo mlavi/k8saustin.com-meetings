@@ -34,6 +34,7 @@ Welcome to the Kubernetes Austin organizing team! This checklist ensures all new
 ### Slack Access
 - [ ] **Add to CNCF Slack private channel:** `#austin-community-group-organizers`
   - Invite via Slack admin panel
+  - If new organizer needs workspace access: https://communityinviter.com/cloud-native/cncf
 - [ ] **Recommend following public channel:** `#austin-community-group`
   - Share link: https://cloud-native.slack.com/channels/austin-community-group
 
@@ -67,23 +68,22 @@ Welcome to the Kubernetes Austin organizing team! This checklist ensures all new
 
 ### Social Media & Marketing
 
-#### LinkedIn Business Page
-- [ ] **Add as admin:** https://www.linkedin.com/company/97438051/admin/dashboard/
+#### Social Media Platforms
+- [ ] **Add as admin to LinkedIn:** https://linkedin.com/company/k8sAustin
   - Go to Admin tools → Page admins → Add admin
   - Grant "Content admin" or "Admin" role
+- [ ] **Add access to other social media accounts:**
+  - X (Twitter): https://x.com/k8sAustin
+  - Instagram: https://instagram.com/k8sAustin
+  - YouTube: https://youtube.com/@k8sAustin
+  - Bluesky: https://bsky.app/profile/k8saustin.com
 - [ ] **Test access:** Verify they can create and schedule posts
 
 #### Buffer (Social Media Scheduling)
 - [ ] **Share Buffer credentials:** buffer.com
-  - Provide shared login credentials securely (via password manager)
+  - Credentials located in shared vault in 1Password
   - Walk through posting workflow: [posting-on-buffer.md](posting-on-buffer.md)
 - [ ] **Test access:** Have them schedule a test post (delete after testing)
-
-#### Canva (Design Platform)
-- [ ] **Add to KubeSkills group:** canva.com
-  - Go to Team settings → Add team member
-  - Point them to K8sAustin folder structure
-- [ ] **Show design templates:** Walk through event banner and logo templates
 
 ### File Storage & Documentation
 - [ ] **Add as editor to Google Drive:** https://drive.google.com/drive/folders/1VNMGy8GB9ehdlfabIrdEEQLDHg3KHGdq?usp=drive_link
