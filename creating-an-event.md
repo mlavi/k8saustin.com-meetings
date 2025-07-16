@@ -79,3 +79,16 @@ Make sure to add descriptive topics, such as: `kuberenetes, cloud native, open s
 
 Schedule (ideally three) two weeks before, one week before, a few days before the event!
 Update descriptions (and graphics if you have the energy) with last minute changes or the confirmed room.
+
+# Week of the Event
+
+## Prepare Slides (the Monday before)
+- Copy the previous month's slides in Google Drive, update the following:
+  - Month
+  - Speaker sessions
+  - Sponsors
+  - Next month's date/location and speakers (if known)
+- Review with team and ask for reviews, additions.
+
+## Plan Food & Beverage
+- [F&B: Food and Beverage Planning](food_and_beverage.md)

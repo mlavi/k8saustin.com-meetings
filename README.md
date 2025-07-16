@@ -7,6 +7,8 @@ planning monthly meetups for Kubernetes Austin CNCF
 
 [Before the Event Checklist](creating-an-event.md)
 
+[F&B](food_and_beverage.md):
+
 [Divulging an Event](posting-on-buffer.md)
 
 [During the Event](during-the-event.md)
